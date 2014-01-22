@@ -17,10 +17,10 @@ their feature or bug fix is ready.
 
 ## Very Much Frequently Asked Questions
 
-### How much doge can exist?
+### How much BUL can exist?
 Total of 100,000,000,000 much coins
 
-### How get doge?
+### How get BUL?
 Scrypt Proof of Work
 
 1 Minute Block Targets, 4 Hour Diff Readjustments
